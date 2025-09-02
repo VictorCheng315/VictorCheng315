@@ -5,5 +5,5 @@ I am a Master’s student in Applied Data Science at the University of Chicago w
 Check out my repositories to see selected projects in data science, predictive modeling, and causal inference.
 
 ## Connect
-- [LinkedIn](www.linkedin.com/in/bowen-cheng-175393244)
+- [LinkedIn](https://www.linkedin.com/in/bowen-cheng-175393244)
 - Email: bowen.cheng315@hotmail.com
